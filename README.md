@@ -4,7 +4,7 @@
 
 # Tiny GPT: PyTorch 기반 트랜스포머 토이 모델
 
-이 프로젝트는 셰익스피어의 텍스트 데이터를 학습하여 새로운 텍스트를 생성하는 **Tiny GPT (토이 모델)** 의 PyTorch 구현체입니다. 이 모델은 오리지널 트랜스포머(Transformer) 아키텍처 중 텍스트 생성에 특화된 **디코더(Decoder) 전용 구조**를 채택하고 있습니다.
+이 프로젝트는 셰익스피어의 텍스트 데이터를 학습하여 새로운 텍스트를 생성하는 **Tiny GPT (토이 모델)** 의 PyTorch 구현체입니다. 이 모델은 오리지널 트랜스포머(Transformer) 아키텍처 중 텍스트 생성에 특화된 **디코더(Decoder) 전용 구조**를 채택하고 있습니다. 자세한 구현 과정은 Work.ipynb에 있습니다.
 
 ## Pretained Model 사용법
 1. 터미널에 "pip install torch" 입력
