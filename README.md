@@ -12,6 +12,8 @@
 3. "Would you like to use pretained model?"에 "Y"로 응답
 4. 프롬프트 입력
 5. Ctrl + c로 루프 종료
+6. 
+<img width="1129" height="649" alt="Image" src="https://github.com/user-attachments/assets/5a1f0868-b289-4e21-b980-39908fd2131a" />
 
 ## 🏗️ 전체 아키텍처 (Architecture Overview)
 
