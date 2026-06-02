@@ -6,7 +6,7 @@ from train import train_one_epoch
 from generate import sample_gpt
 
 def main():
-    file_path = "/workspaces/Final-Project-II-new/Todd G. Buchholz - New Ideas from Dead Economists_ The Introduction to Modern Economic Thought, 4th Edition (2021, Penguin Publishing Group).txt" # Make sure your dataset text file is named correctly
+    file_path = "/workspaces/GPT-2.0/Todd G. Buchholz - New Ideas from Dead Economists_ The Introduction to Modern Economic Thought, 4th Edition (2021, Penguin Publishing Group).txt" # Make sure your dataset text file is named correctly
     model_path = "tiny_gpt_economists.pth"
     block_size = 64
     batch_size = 64
